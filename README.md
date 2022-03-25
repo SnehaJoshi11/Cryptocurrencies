@@ -18,7 +18,7 @@ The Data on which we are working with is not ideal, so it will need to be proces
 
   
 ## Resources
-- Data Source: [crypto_data.csv](Resources\crypto_data.csv)
+- Data Source: [crypto_data.csv](Resources/crypto_data.csv)
 - Software: **Jupyter Notebook**
 - Languages: **Python**
 - Libraries: **Scikit-learn**, **Pandas**, **Plotly**
