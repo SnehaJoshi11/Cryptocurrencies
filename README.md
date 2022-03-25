@@ -103,11 +103,12 @@ Visualizing the clusters helps to graphically understand how they are arranged.
   - When hover over the specific element the graph shows label with Coin Name and its Algorithm. 
 
 <p align="center">
-<img src="Images/3DPlot.png" width="60%" height="60%">
+<img src="Images/3Dplot.png" width="60%" height="60%">
 </p>
 <p align="center">
 <i>Figure 1: Cryptocurrencies clustered in 4 main groups. </i>
 </p>
+
 
 - **2D visualization and correlation between Total Coins Supply and Total Coins Mined**
 
@@ -123,6 +124,8 @@ Visualizing the clusters helps to graphically understand how they are arranged.
 <p align="center">
 <i>Figure 2: Correlation between Total Coins Supply and Total Coins Mined. </i>
 </p>
+
+
 
 - **Interactive Table**
 
